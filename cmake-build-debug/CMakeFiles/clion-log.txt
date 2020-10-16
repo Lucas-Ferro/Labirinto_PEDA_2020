@@ -1,0 +1,4 @@
+C:\Users\lucas\AppData\Local\JetBrains\CLion2020.2\cygwin_cmake\bin\cmake.exe -DCMAKE_BUILD_TYPE=Debug -G "CodeBlocks - Unix Makefiles" /cygdrive/d/Lucas/PUCPR/6ºSemestre/Programacao_com_Estruturas_de_Dados_Avançadas_PEDA/PilhaArray
+-- Configuring done
+-- Generating done
+-- Build files have been written to: /cygdrive/d/Lucas/PUCPR/6ÂºSemestre/Programacao_com_Estruturas_de_Dados_AvanÃ§adas_PEDA/PilhaArray/cmake-build-debug

@@ -1,0 +1,34 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/cygdrive/d/Lucas/PUCPR/6ºSemestre/Programacao_com_Estruturas_de_Dados_Avançadas_PEDA/PilhaArray/Pilha.h
+
+/cygdrive/d/Lucas/PUCPR/6ºSemestre/Programacao_com_Estruturas_de_Dados_Avançadas_PEDA/PilhaArray/PilhaArray.h
+Pilha.h
+/cygdrive/d/Lucas/PUCPR/6ºSemestre/Programacao_com_Estruturas_de_Dados_Avançadas_PEDA/PilhaArray/Pilha.h
+Pilha.h
+/cygdrive/d/Lucas/PUCPR/6ºSemestre/Programacao_com_Estruturas_de_Dados_Avançadas_PEDA/PilhaArray/Pilha.h
+
+/cygdrive/d/Lucas/PUCPR/6ºSemestre/Programacao_com_Estruturas_de_Dados_Avançadas_PEDA/PilhaArray/PilhaEncadeada.h
+Pilha.h
+/cygdrive/d/Lucas/PUCPR/6ºSemestre/Programacao_com_Estruturas_de_Dados_Avançadas_PEDA/PilhaArray/Pilha.h
+
+/cygdrive/d/Lucas/PUCPR/6ºSemestre/Programacao_com_Estruturas_de_Dados_Avançadas_PEDA/PilhaArray/main.cpp
+iostream
+-
+fstream
+-
+string
+-
+chrono
+-
+PilhaEncadeada.h
+/cygdrive/d/Lucas/PUCPR/6ºSemestre/Programacao_com_Estruturas_de_Dados_Avançadas_PEDA/PilhaArray/PilhaEncadeada.h
+PilhaArray.h
+/cygdrive/d/Lucas/PUCPR/6ºSemestre/Programacao_com_Estruturas_de_Dados_Avançadas_PEDA/PilhaArray/PilhaArray.h
+

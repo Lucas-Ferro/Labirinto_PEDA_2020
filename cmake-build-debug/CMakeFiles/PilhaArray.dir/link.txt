@@ -1,0 +1,1 @@
+/usr/bin/c++.exe -g  -Wl,--enable-auto-import CMakeFiles/PilhaArray.dir/main.cpp.o CMakeFiles/PilhaArray.dir/PilhaArray.cpp.o CMakeFiles/PilhaArray.dir/PilhaEncadeada.cpp.o  -o PilhaArray.exe -Wl,--out-implib,libPilhaArray.dll.a -Wl,--major-image-version,0,--minor-image-version,0 
